@@ -1,0 +1,14 @@
+table {
+    border: 1px solid #ccc;
+    margin: auto;
+}
+
+thead {
+    background-color: #ccc;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #eee;
+}
